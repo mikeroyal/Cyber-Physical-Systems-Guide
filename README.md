@@ -139,7 +139,7 @@
   <br />
 </p>
 
-**Sensors from Alps Alpine. [Source]:(https://tech.alpsalpine.com/e/category_sensor.html)**
+**Sensors from Alps Alpine. Source: [Alps Alpine](https://tech.alpsalpine.com/e/category_sensor.html)**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126912537-82a856cb-9d4c-48a8-9d35-13a760198ddb.png">
