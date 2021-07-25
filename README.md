@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126912533-937e971f-6ba1-460d-9a94-040776684c33.png">
   <br />
   Cyber-Physical Systems  Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126912534-2ba78fc9-9b3a-429e-9afe-317b80e4fd12.png">
   <br />
 </p>
 
@@ -43,12 +43,6 @@
 
 14. [Java Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#java-development)
 
-
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/126080548-77e08084-01c5-4806-b789-1673d5426c52.png">
-  <br />
-</p>
 
 # Cyber-Physical Systems Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#table-of-contents)
@@ -141,14 +135,14 @@
 [CMOS(Complementary Metal Oxide Semiconductor) sensors](https://global.canon/en/technology/s_labo/light/003/05.html) are semiconductor image sensors that convert light into electrical signals. It includes features such as timing logic, exposure control, analog-to-digital conversion, shuttering, white balance, gain adjustment, and initial image processing algorithms. CMOS sensors contain rows of photodiodes coupled with individual amplifiers to amplify the electric signal from the photodiodes. This not only enables CMOS sensors to operate on less electrical power than CCDs, but also enables speedier and easier reading of electrical charges at a relatively low-cost.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126912536-fba83d70-3abb-464e-8ad6-1c109471a03f.png">
   <br />
 </p>
 
-**Sensors from Alps Alpine. [Source]: (https://tech.alpsalpine.com/e/category_sensor.html)**
+**Sensors from Alps Alpine. [Source]:(https://tech.alpsalpine.com/e/category_sensor.html)**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126912537-82a856cb-9d4c-48a8-9d35-13a760198ddb.png">
   <br />
 </p>
 
@@ -165,9 +159,10 @@
 [Actuators | Emerson US](https://www.emerson.com/en-us/automation/valves-actuators-regulators/actuators)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126912539-eebe5f98-d7f5-4fd0-b541-5f296296eddf.png">
   <br />
 </p>
+
 **Types of Actuators**
 
 # Security Tools and Frameworks
