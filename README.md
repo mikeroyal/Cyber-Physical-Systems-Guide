@@ -25,13 +25,13 @@
 
 5. [Machine Learning](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#machine-learning)
 
-6. [Robotics Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#)
+6. [Robotics Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#robotics-development)
 
-7. [Networking](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#)
+7. [Networking](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#networking)
 
-8. [Telco 5G Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#)
+8. [Telco 5G Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#telco-5g-development)
 
-9. [Cloud Native Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#)
+9. [Cloud Native Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#cloud-native-development)
 
 10. [MATLAB Development](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#matlab-development)
 
