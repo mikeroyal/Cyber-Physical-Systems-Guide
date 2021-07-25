@@ -272,8 +272,6 @@ It is extended by a set of privacy-specific requirements, control objectives and
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#table-of-contents)
 
-**[NIST Fingerprint Image Quality algorithms](https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis#NFIQ)**
-
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
 <p align="center">
@@ -985,7 +983,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 # Cloud Native
 [Back to the Top](https://github.com/mikeroyal/Cyber-Physical-Systems-Guide#table-of-contents)
 
-<palign="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/90199045-6a7ba400-dd88-11ea-96d6-81b90d370946.png">
   <br />
 </p>
